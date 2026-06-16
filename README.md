@@ -48,17 +48,14 @@
 
 ---
 
-## 👥 Team Members
+## 👤 Developer
 
-| Name | SAP ID |
-|------|--------|
-| Simaab Malik | 54910 |
-| Hoor Spogmay | 53541 |
-| Aqsa Ahmed | 53106 |
-
-**Supervisor**: Ma'am Sabahat Ajaz  
-**Batch**: Fall 2023  
-**Institution**: Riphah International University
+**Simaab Malik**  
+SAP ID: 54910  
+BS Software Engineering  
+Riphah International University  
+**Supervisor**: Ma'am Sabahat   
+**Session**: Fall 2024 - 3rd Sem
 
 ---
 
